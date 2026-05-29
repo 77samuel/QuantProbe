@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "category": "factual",
+    "prompt": "What is the capital city of Australia?",
+    "reference": "Canberra",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 2,
+    "category": "factual",
+    "prompt": "What is the capital of Canada?",
+    "reference": "Ottawa",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 3,
+    "category": "factual",
+    "prompt": "What is the capital of Brazil?",
+    "reference": "Brasilia",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 4,
+    "category": "factual",
+    "prompt": "What is the capital of South Africa?",
+    "reference": "Pretoria",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 5,
+    "category": "factual",
+    "prompt": "What is the capital of New Zealand?",
+    "reference": "Wellington",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 6,
+    "category": "factual",
+    "prompt": "What is the capital of Switzerland?",
+    "reference": "Bern",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 7,
+    "category": "factual",
+    "prompt": "What is the capital of Argentina?",
+    "reference": "Buenos Aires",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 8,
+    "category": "factual",
+    "prompt": "What is the capital of Egypt?",
+    "reference": "Cairo",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 9,
+    "category": "factual",
+    "prompt": "What is the capital of Saudi Arabia?",
+    "reference": "Riyadh",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 10,
+    "category": "factual",
+    "prompt": "What is the capital of Malaysia?",
+    "reference": "Kuala Lumpur",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 11,
+    "category": "factual",
+    "prompt": "What is the capital of Indonesia?",
+    "reference": "Jakarta",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 12,
+    "category": "factual",
+    "prompt": "What is the capital of Nigeria?",
+    "reference": "Abuja",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 13,
+    "category": "factual",
+    "prompt": "What is the capital of Pakistan?",
+    "reference": "Islamabad",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 14,
+    "category": "factual",
+    "prompt": "What is the capital of Vietnam?",
+    "reference": "Hanoi",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 15,
+    "category": "factual",
+    "prompt": "What is the capital of Thailand?",
+    "reference": "Bangkok",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 16,
+    "category": "factual",
+    "prompt": "Which country has the largest land area in the world?",
+    "reference": "Russia",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 17,
+    "category": "factual",
+    "prompt": "Which is the smallest country in the world by area?",
+    "reference": "Vatican City",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 18,
+    "category": "factual",
+    "prompt": "What is the longest river in the world?",
+    "reference": "Nile",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 19,
+    "category": "factual",
+    "prompt": "What is the highest mountain in the world?",
+    "reference": "Mount Everest",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 20,
+    "category": "factual",
+    "prompt": "Which ocean is the largest in the world?",
+    "reference": "Pacific Ocean",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 21,
+    "category": "factual",
+    "prompt": "What is the largest desert in the world?",
+    "reference": "Sahara Desert",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 22,
+    "category": "factual",
+    "prompt": "Which country has the most natural lakes?",
+    "reference": "Canada",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 23,
+    "category": "factual",
+    "prompt": "What is the smallest continent by land area?",
+    "reference": "Australia",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 24,
+    "category": "factual",
+    "prompt": "Which country is both a continent and a nation?",
+    "reference": "Australia",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 25,
+    "category": "factual",
+    "prompt": "What is the deepest lake in the world?",
+    "reference": "Lake Baikal",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 26,
+    "category": "factual",
+    "prompt": "Which country has the longest coastline?",
+    "reference": "Canada",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 27,
+    "category": "factual",
+    "prompt": "What is the tallest waterfall in the world?",
+    "reference": "Angel Falls",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 28,
+    "category": "factual",
+    "prompt": "Which sea is the saltiest in the world?",
+    "reference": "Dead Sea",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 29,
+    "category": "factual",
+    "prompt": "What is the largest island in the world?",
+    "reference": "Greenland",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 30,
+    "category": "factual",
+    "prompt": "Which strait separates Europe from Africa?",
+    "reference": "Strait of Gibraltar",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 31,
+    "category": "factual",
+    "prompt": "How many bones are in the adult human body?",
+    "reference": "206",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 32,
+    "category": "factual",
+    "prompt": "What is the chemical symbol for gold?",
+    "reference": "Au",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 33,
+    "category": "factual",
+    "prompt": "What is the chemical symbol for iron?",
+    "reference": "Fe",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 34,
+    "category": "factual",
+    "prompt": "What is the chemical symbol for silver?",
+    "reference": "Ag",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 35,
+    "category": "factual",
+    "prompt": "What is the chemical symbol for sodium?",
+    "reference": "Na",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 36,
+    "category": "factual",
+    "prompt": "What is the boiling point of water at sea level in Celsius?",
+    "reference": "100",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 37,
+    "category": "factual",
+    "prompt": "What is the freezing point of water in Celsius?",
+    "reference": "0",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 38,
+    "category": "factual",
+    "prompt": "What is the speed of light in a vacuum?",
+    "reference": "299792458 metres per second",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 39,
+    "category": "factual",
+    "prompt": "What does DNA stand for?",
+    "reference": "Deoxyribonucleic acid",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 40,
+    "category": "factual",
+    "prompt": "What does RNA stand for?",
+    "reference": "Ribonucleic acid",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 41,
+    "category": "factual",
+    "prompt": "How many chromosomes do humans have?",
+    "reference": "46",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 42,
+    "category": "factual",
+    "prompt": "What is the powerhouse of the cell?",
+    "reference": "Mitochondria",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 43,
+    "category": "factual",
+    "prompt": "Which planet is closest to the Sun?",
+    "reference": "Mercury",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 44,
+    "category": "factual",
+    "prompt": "Which planet is largest in our solar system?",
+    "reference": "Jupiter",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 45,
+    "category": "factual",
+    "prompt": "How many moons does Mars have?",
+    "reference": "2",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 46,
+    "category": "factual",
+    "prompt": "What is the atomic number of carbon?",
+    "reference": "6",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 47,
+    "category": "factual",
+    "prompt": "What is the atomic number of hydrogen?",
+    "reference": "1",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 48,
+    "category": "factual",
+    "prompt": "What is the most abundant gas in Earth's atmosphere?",
+    "reference": "Nitrogen",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 49,
+    "category": "factual",
+    "prompt": "What is the most abundant element in the universe?",
+    "reference": "Hydrogen",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 50,
+    "category": "factual",
+    "prompt": "What force keeps planets in orbit around the Sun?",
+    "reference": "Gravity",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 51,
+    "category": "factual",
+    "prompt": "What is the unit of electrical resistance?",
+    "reference": "Ohm",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 52,
+    "category": "factual",
+    "prompt": "What is the unit of electrical current?",
+    "reference": "Ampere",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 53,
+    "category": "factual",
+    "prompt": "What is the unit of force in the SI system?",
+    "reference": "Newton",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 54,
+    "category": "factual",
+    "prompt": "What is the unit of energy in the SI system?",
+    "reference": "Joule",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 55,
+    "category": "factual",
+    "prompt": "What is the speed of sound in air at sea level approximately?",
+    "reference": "343 metres per second",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 56,
+    "category": "factual",
+    "prompt": "How many teeth does an adult human have?",
+    "reference": "32",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 57,
+    "category": "factual",
+    "prompt": "What is the largest organ in the human body?",
+    "reference": "Skin",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 58,
+    "category": "factual",
+    "prompt": "What type of blood vessel carries blood away from the heart?",
+    "reference": "Artery",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 59,
+    "category": "factual",
+    "prompt": "What is the normal human body temperature in Celsius?",
+    "reference": "37",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 60,
+    "category": "factual",
+    "prompt": "How many chambers does the human heart have?",
+    "reference": "4",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 61,
+    "category": "factual",
+    "prompt": "In which year did World War II end?",
+    "reference": "1945",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 62,
+    "category": "factual",
+    "prompt": "In which year did World War I begin?",
+    "reference": "1914",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 63,
+    "category": "factual",
+    "prompt": "In which year was the Eiffel Tower completed?",
+    "reference": "1889",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 64,
+    "category": "factual",
+    "prompt": "Who wrote the play Hamlet?",
+    "reference": "William Shakespeare",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 65,
+    "category": "factual",
+    "prompt": "Who wrote the novel Pride and Prejudice?",
+    "reference": "Jane Austen",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 66,
+    "category": "factual",
+    "prompt": "Who wrote the novel 1984?",
+    "reference": "George Orwell",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 67,
+    "category": "factual",
+    "prompt": "Who wrote Don Quixote?",
+    "reference": "Miguel de Cervantes",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 68,
+    "category": "factual",
+    "prompt": "Who wrote the Iliad and the Odyssey?",
+    "reference": "Homer",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 69,
+    "category": "factual",
+    "prompt": "Who wrote the Divine Comedy?",
+    "reference": "Dante Alighieri",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 70,
+    "category": "factual",
+    "prompt": "In which year did the French Revolution begin?",
+    "reference": "1789",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 71,
+    "category": "factual",
+    "prompt": "In which year did the American Declaration of Independence get signed?",
+    "reference": "1776",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 72,
+    "category": "factual",
+    "prompt": "Who was the first President of the United States?",
+    "reference": "George Washington",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 73,
+    "category": "factual",
+    "prompt": "Who was the first woman to win a Nobel Prize?",
+    "reference": "Marie Curie",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 74,
+    "category": "factual",
+    "prompt": "In which year did man first land on the Moon?",
+    "reference": "1969",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 75,
+    "category": "factual",
+    "prompt": "What was the name of the first artificial satellite launched into space?",
+    "reference": "Sputnik",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 76,
+    "category": "factual",
+    "prompt": "In which year was the Berlin Wall torn down?",
+    "reference": "1989",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 77,
+    "category": "factual",
+    "prompt": "Who invented the telephone?",
+    "reference": "Alexander Graham Bell",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 78,
+    "category": "factual",
+    "prompt": "Who invented the light bulb?",
+    "reference": "Thomas Edison",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 79,
+    "category": "factual",
+    "prompt": "Who invented the airplane?",
+    "reference": "Wright Brothers",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 80,
+    "category": "factual",
+    "prompt": "Who invented the World Wide Web?",
+    "reference": "Tim Berners-Lee",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 81,
+    "category": "factual",
+    "prompt": "What year was the Titanic sunk?",
+    "reference": "1912",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 82,
+    "category": "factual",
+    "prompt": "Which empire was ruled by Julius Caesar?",
+    "reference": "Roman Empire",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 83,
+    "category": "factual",
+    "prompt": "Who was the Egyptian queen famous for her relationship with Julius Caesar?",
+    "reference": "Cleopatra",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 84,
+    "category": "factual",
+    "prompt": "What ancient wonder was located in Alexandria?",
+    "reference": "Library of Alexandria",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 85,
+    "category": "factual",
+    "prompt": "In which country was the printing press invented?",
+    "reference": "Germany",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 86,
+    "category": "factual",
+    "prompt": "What year did the Soviet Union collapse?",
+    "reference": "1991",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 87,
+    "category": "factual",
+    "prompt": "Who was the first human to travel to space?",
+    "reference": "Yuri Gagarin",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 88,
+    "category": "factual",
+    "prompt": "What year did India gain independence from Britain?",
+    "reference": "1947",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 89,
+    "category": "factual",
+    "prompt": "Who painted the Mona Lisa?",
+    "reference": "Leonardo da Vinci",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 90,
+    "category": "factual",
+    "prompt": "Who painted the Sistine Chapel ceiling?",
+    "reference": "Michelangelo",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 91,
+    "category": "factual",
+    "prompt": "How many sides does a hexagon have?",
+    "reference": "6",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 92,
+    "category": "factual",
+    "prompt": "How many sides does an octagon have?",
+    "reference": "8",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 93,
+    "category": "factual",
+    "prompt": "What is the value of pi to two decimal places?",
+    "reference": "3.14",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 94,
+    "category": "factual",
+    "prompt": "What is the square root of 144?",
+    "reference": "12",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 95,
+    "category": "factual",
+    "prompt": "What is 15 percent of 200?",
+    "reference": "30",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 96,
+    "category": "factual",
+    "prompt": "How many degrees are in a right angle?",
+    "reference": "90",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 97,
+    "category": "factual",
+    "prompt": "How many degrees are in a straight line?",
+    "reference": "180",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 98,
+    "category": "factual",
+    "prompt": "How many degrees are in a full circle?",
+    "reference": "360",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 99,
+    "category": "factual",
+    "prompt": "How many centimetres are in one metre?",
+    "reference": "100",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 100,
+    "category": "factual",
+    "prompt": "How many metres are in one kilometre?",
+    "reference": "1000",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 101,
+    "category": "factual",
+    "prompt": "How many grams are in one kilogram?",
+    "reference": "1000",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 102,
+    "category": "factual",
+    "prompt": "How many millilitres are in one litre?",
+    "reference": "1000",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 103,
+    "category": "factual",
+    "prompt": "How many seconds are in one hour?",
+    "reference": "3600",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 104,
+    "category": "factual",
+    "prompt": "How many minutes are in one day?",
+    "reference": "1440",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 105,
+    "category": "factual",
+    "prompt": "How many days are in a leap year?",
+    "reference": "366",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 106,
+    "category": "factual",
+    "prompt": "What is the currency of Japan?",
+    "reference": "Yen",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 107,
+    "category": "factual",
+    "prompt": "What is the currency of the United Kingdom?",
+    "reference": "Pound Sterling",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 108,
+    "category": "factual",
+    "prompt": "What is the currency of India?",
+    "reference": "Rupee",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 109,
+    "category": "factual",
+    "prompt": "What is the currency of China?",
+    "reference": "Yuan",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 110,
+    "category": "factual",
+    "prompt": "What is the currency of South Korea?",
+    "reference": "Won",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 111,
+    "category": "factual",
+    "prompt": "How many players are on a standard football team?",
+    "reference": "11",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 112,
+    "category": "factual",
+    "prompt": "How many players are on a basketball team on court?",
+    "reference": "5",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 113,
+    "category": "factual",
+    "prompt": "How many holes are in a standard round of golf?",
+    "reference": "18",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 114,
+    "category": "factual",
+    "prompt": "How long is a marathon in kilometres?",
+    "reference": "42.195",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 115,
+    "category": "factual",
+    "prompt": "In what year were the first modern Olympic Games held?",
+    "reference": "1896",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 116,
+    "category": "factual",
+    "prompt": "What is the longest bone in the human body?",
+    "reference": "Femur",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 117,
+    "category": "factual",
+    "prompt": "What is the smallest bone in the human body?",
+    "reference": "Stapes",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 118,
+    "category": "factual",
+    "prompt": "How many planets are in our solar system?",
+    "reference": "8",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 119,
+    "category": "factual",
+    "prompt": "What is the chemical formula for water?",
+    "reference": "H2O",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 120,
+    "category": "factual",
+    "prompt": "What is the chemical formula for carbon dioxide?",
+    "reference": "CO2",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 121,
+    "category": "factual",
+    "prompt": "What is the largest planet in our solar system?",
+    "reference": "Jupiter",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 122,
+    "category": "factual",
+    "prompt": "What is the closest star to Earth?",
+    "reference": "Sun",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 123,
+    "category": "factual",
+    "prompt": "How many elements are in the periodic table?",
+    "reference": "118",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 124,
+    "category": "factual",
+    "prompt": "What is the hardest natural substance on Earth?",
+    "reference": "Diamond",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 125,
+    "category": "factual",
+    "prompt": "What type of animal is a whale?",
+    "reference": "Mammal",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 126,
+    "category": "factual",
+    "prompt": "What is the largest land animal?",
+    "reference": "African elephant",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 127,
+    "category": "factual",
+    "prompt": "What is the fastest land animal?",
+    "reference": "Cheetah",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 128,
+    "category": "factual",
+    "prompt": "What is the largest bird in the world?",
+    "reference": "Ostrich",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 129,
+    "category": "factual",
+    "prompt": "What is the smallest bird in the world?",
+    "reference": "Bee hummingbird",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 130,
+    "category": "factual",
+    "prompt": "What gas do plants absorb during photosynthesis?",
+    "reference": "Carbon dioxide",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 131,
+    "category": "factual",
+    "prompt": "What gas do plants release during photosynthesis?",
+    "reference": "Oxygen",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 132,
+    "category": "factual",
+    "prompt": "What is the centre of our galaxy called?",
+    "reference": "Milky Way centre",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 133,
+    "category": "factual",
+    "prompt": "How many strings does a standard guitar have?",
+    "reference": "6",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 134,
+    "category": "factual",
+    "prompt": "How many keys does a standard piano have?",
+    "reference": "88",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 135,
+    "category": "factual",
+    "prompt": "What year was the United Nations founded?",
+    "reference": "1945",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 136,
+    "category": "factual",
+    "prompt": "How many permanent members does the UN Security Council have?",
+    "reference": "5",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 137,
+    "category": "factual",
+    "prompt": "What is the longest wall ever built?",
+    "reference": "Great Wall of China",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 138,
+    "category": "factual",
+    "prompt": "What is the most widely spoken language in the world?",
+    "reference": "Mandarin Chinese",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 139,
+    "category": "factual",
+    "prompt": "What is the official language of Brazil?",
+    "reference": "Portuguese",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 140,
+    "category": "factual",
+    "prompt": "How many time zones does Russia span?",
+    "reference": "11",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 141,
+    "category": "factual",
+    "prompt": "Which country invented paper?",
+    "reference": "China",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 142,
+    "category": "factual",
+    "prompt": "Which country invented gunpowder?",
+    "reference": "China",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 143,
+    "category": "factual",
+    "prompt": "Which country invented the compass?",
+    "reference": "China",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 144,
+    "category": "factual",
+    "prompt": "What is the chemical formula for table salt?",
+    "reference": "NaCl",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 145,
+    "category": "factual",
+    "prompt": "What is the chemical formula for ammonia?",
+    "reference": "NH3",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 146,
+    "category": "factual",
+    "prompt": "What is the chemical formula for methane?",
+    "reference": "CH4",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 147,
+    "category": "factual",
+    "prompt": "What is the chemical formula for glucose?",
+    "reference": "C6H12O6",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 148,
+    "category": "factual",
+    "prompt": "What is the pH of pure water?",
+    "reference": "7",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 149,
+    "category": "factual",
+    "prompt": "What is the symbol for the element helium?",
+    "reference": "He",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 150,
+    "category": "factual",
+    "prompt": "What is the symbol for the element oxygen?",
+    "reference": "O",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated"
+  },
+  {
+    "id": 151,
+    "category": "temporal",
+    "prompt": "Which country won the FIFA World Cup in 2022?",
+    "reference": "Argentina",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 152,
+    "category": "temporal",
+    "prompt": "Where were the 2022 FIFA World Cup finals held?",
+    "reference": "Qatar",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 153,
+    "category": "temporal",
+    "prompt": "Who won the FIFA World Cup Golden Ball in 2022?",
+    "reference": "Lionel Messi",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 154,
+    "category": "temporal",
+    "prompt": "Which country hosted the 2022 Winter Olympics?",
+    "reference": "China",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 155,
+    "category": "temporal",
+    "prompt": "Where were the 2022 Winter Olympics held?",
+    "reference": "Beijing",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 156,
+    "category": "temporal",
+    "prompt": "Which country won the most gold medals at the 2022 Winter Olympics?",
+    "reference": "Norway",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 157,
+    "category": "temporal",
+    "prompt": "Who won the Academy Award for Best Picture in 2023?",
+    "reference": "Everything Everywhere All at Once",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 158,
+    "category": "temporal",
+    "prompt": "Who won the Nobel Peace Prize in 2022?",
+    "reference": "Ales Bialiatski",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 159,
+    "category": "temporal",
+    "prompt": "Who won the Nobel Prize in Literature in 2022?",
+    "reference": "Annie Ernaux",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 160,
+    "category": "temporal",
+    "prompt": "Who won the Nobel Prize in Physics in 2022?",
+    "reference": "Alain Aspect, John Clauser, Anton Zeilinger",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 161,
+    "category": "temporal",
+    "prompt": "What year was GPT-4 released by OpenAI?",
+    "reference": "2023",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 162,
+    "category": "temporal",
+    "prompt": "What AI model did Google release to compete with ChatGPT in 2023?",
+    "reference": "Bard",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 163,
+    "category": "temporal",
+    "prompt": "What year was ChatGPT launched by OpenAI?",
+    "reference": "2022",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 164,
+    "category": "temporal",
+    "prompt": "What is the name of Meta's open-source LLM released in 2023?",
+    "reference": "Llama 2",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 165,
+    "category": "temporal",
+    "prompt": "Which company released the Gemini AI model in December 2023?",
+    "reference": "Google",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 166,
+    "category": "temporal",
+    "prompt": "What year did Twitter rebrand to X?",
+    "reference": "2023",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 167,
+    "category": "temporal",
+    "prompt": "Who acquired Twitter in 2022?",
+    "reference": "Elon Musk",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 168,
+    "category": "temporal",
+    "prompt": "Which company released the Claude AI assistant?",
+    "reference": "Anthropic",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 169,
+    "category": "temporal",
+    "prompt": "What year was Anthropic founded?",
+    "reference": "2021",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 170,
+    "category": "temporal",
+    "prompt": "Which programming language topped the TIOBE index in 2023?",
+    "reference": "Python",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 171,
+    "category": "temporal",
+    "prompt": "Who won the Ballon d'Or in 2023?",
+    "reference": "Lionel Messi",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 172,
+    "category": "temporal",
+    "prompt": "Who won the Ballon d'Or in 2022?",
+    "reference": "Karim Benzema",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 173,
+    "category": "temporal",
+    "prompt": "Which team won the UEFA Champions League in 2023?",
+    "reference": "Manchester City",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 174,
+    "category": "temporal",
+    "prompt": "Which team won the UEFA Champions League in 2022?",
+    "reference": "Real Madrid",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 175,
+    "category": "temporal",
+    "prompt": "Who won the Wimbledon men's singles title in 2023?",
+    "reference": "Carlos Alcaraz",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 176,
+    "category": "temporal",
+    "prompt": "Who won the Wimbledon women's singles title in 2023?",
+    "reference": "Marketa Vondrousova",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 177,
+    "category": "temporal",
+    "prompt": "Who won the US Open tennis men's singles in 2023?",
+    "reference": "Novak Djokovic",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 178,
+    "category": "temporal",
+    "prompt": "Which country won the Cricket World Cup in 2023?",
+    "reference": "Australia",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 179,
+    "category": "temporal",
+    "prompt": "Who won the Formula 1 World Championship in 2023?",
+    "reference": "Max Verstappen",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 180,
+    "category": "temporal",
+    "prompt": "Who won the Formula 1 World Championship in 2022?",
+    "reference": "Max Verstappen",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 181,
+    "category": "temporal",
+    "prompt": "Which team won the NBA Championship in 2023?",
+    "reference": "Denver Nuggets",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 182,
+    "category": "temporal",
+    "prompt": "Which team won the NBA Championship in 2022?",
+    "reference": "Golden State Warriors",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 183,
+    "category": "temporal",
+    "prompt": "Which team won Super Bowl LVII in 2023?",
+    "reference": "Kansas City Chiefs",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 184,
+    "category": "temporal",
+    "prompt": "Which team won Super Bowl LVI in 2022?",
+    "reference": "Los Angeles Rams",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 185,
+    "category": "temporal",
+    "prompt": "What year did Queen Elizabeth II pass away?",
+    "reference": "2022",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 186,
+    "category": "temporal",
+    "prompt": "Who became King of the United Kingdom after Queen Elizabeth II?",
+    "reference": "King Charles III",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 187,
+    "category": "temporal",
+    "prompt": "What was the name of the major earthquake that struck Turkey in 2023?",
+    "reference": "2023 Turkey-Syria earthquake",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 188,
+    "category": "temporal",
+    "prompt": "Which city hosted the G20 Summit in 2023?",
+    "reference": "New Delhi",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 189,
+    "category": "temporal",
+    "prompt": "What year did India land a spacecraft near the south pole of the Moon?",
+    "reference": "2023",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 190,
+    "category": "temporal",
+    "prompt": "What was the name of India's Moon mission that landed in 2023?",
+    "reference": "Chandrayaan-3",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 191,
+    "category": "temporal",
+    "prompt": "Which country launched the first commercial Moon lander in 2023?",
+    "reference": "Japan",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 192,
+    "category": "temporal",
+    "prompt": "What year did Sam Altman briefly leave and return to OpenAI?",
+    "reference": "2023",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 193,
+    "category": "temporal",
+    "prompt": "What is the name of OpenAI's GPT-4 powered assistant?",
+    "reference": "ChatGPT",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 194,
+    "category": "temporal",
+    "prompt": "Which social media platform launched Threads in 2023?",
+    "reference": "Meta",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 195,
+    "category": "temporal",
+    "prompt": "What year did Microsoft invest 10 billion dollars in OpenAI?",
+    "reference": "2023",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 196,
+    "category": "temporal",
+    "prompt": "Which AI image generator was released by Midjourney in 2022?",
+    "reference": "Midjourney",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 197,
+    "category": "temporal",
+    "prompt": "What year was Stable Diffusion released?",
+    "reference": "2022",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 198,
+    "category": "temporal",
+    "prompt": "Which country won the 2022 ICC T20 World Cup?",
+    "reference": "England",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 199,
+    "category": "temporal",
+    "prompt": "Who won the 2023 French Open men's singles title?",
+    "reference": "Novak Djokovic",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 200,
+    "category": "temporal",
+    "prompt": "Which country won the 2022 Rugby World Cup?",
+    "reference": "South Africa",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 201,
+    "category": "temporal",
+    "prompt": "What year was Facebook founded?",
+    "reference": "2004",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 202,
+    "category": "temporal",
+    "prompt": "What year was Google founded?",
+    "reference": "1998",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 203,
+    "category": "temporal",
+    "prompt": "What year was Apple founded?",
+    "reference": "1976",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 204,
+    "category": "temporal",
+    "prompt": "What year was Microsoft founded?",
+    "reference": "1975",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 205,
+    "category": "temporal",
+    "prompt": "What year was Amazon founded?",
+    "reference": "1994",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 206,
+    "category": "temporal",
+    "prompt": "What year was Netflix founded?",
+    "reference": "1997",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 207,
+    "category": "temporal",
+    "prompt": "What year was YouTube founded?",
+    "reference": "2005",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 208,
+    "category": "temporal",
+    "prompt": "What year was Twitter founded?",
+    "reference": "2006",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 209,
+    "category": "temporal",
+    "prompt": "What year was Instagram founded?",
+    "reference": "2010",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 210,
+    "category": "temporal",
+    "prompt": "What year was Uber founded?",
+    "reference": "2009",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 211,
+    "category": "temporal",
+    "prompt": "Who is the founder of Tesla?",
+    "reference": "Elon Musk",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 212,
+    "category": "temporal",
+    "prompt": "Who founded Microsoft?",
+    "reference": "Bill Gates and Paul Allen",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 213,
+    "category": "temporal",
+    "prompt": "Who founded Apple?",
+    "reference": "Steve Jobs, Steve Wozniak, and Ronald Wayne",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 214,
+    "category": "temporal",
+    "prompt": "Who founded Amazon?",
+    "reference": "Jeff Bezos",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 215,
+    "category": "temporal",
+    "prompt": "Who founded Facebook?",
+    "reference": "Mark Zuckerberg",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 216,
+    "category": "temporal",
+    "prompt": "What year was the iPhone first released?",
+    "reference": "2007",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 217,
+    "category": "temporal",
+    "prompt": "What year was the first iPad released?",
+    "reference": "2010",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 218,
+    "category": "temporal",
+    "prompt": "What year was Android first released?",
+    "reference": "2008",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 219,
+    "category": "temporal",
+    "prompt": "What year was the first Tesla Roadster released?",
+    "reference": "2008",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 220,
+    "category": "temporal",
+    "prompt": "What year did SpaceX first launch a rocket?",
+    "reference": "2006",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 221,
+    "category": "temporal",
+    "prompt": "What year was Bitcoin created?",
+    "reference": "2009",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 222,
+    "category": "temporal",
+    "prompt": "Who created Bitcoin?",
+    "reference": "Satoshi Nakamoto",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 223,
+    "category": "temporal",
+    "prompt": "What year was Ethereum launched?",
+    "reference": "2015",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 224,
+    "category": "temporal",
+    "prompt": "What year was Wikipedia founded?",
+    "reference": "2001",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 225,
+    "category": "temporal",
+    "prompt": "What year was LinkedIn founded?",
+    "reference": "2003",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 226,
+    "category": "temporal",
+    "prompt": "What year was Spotify launched?",
+    "reference": "2008",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 227,
+    "category": "temporal",
+    "prompt": "What year was WhatsApp founded?",
+    "reference": "2009",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 228,
+    "category": "temporal",
+    "prompt": "What year was Snapchat founded?",
+    "reference": "2011",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 229,
+    "category": "temporal",
+    "prompt": "What year was TikTok launched globally?",
+    "reference": "2018",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 230,
+    "category": "temporal",
+    "prompt": "What year was the first iPhone with Face ID released?",
+    "reference": "2017",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 231,
+    "category": "temporal",
+    "prompt": "What year did GPT-3 get released?",
+    "reference": "2020",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 232,
+    "category": "temporal",
+    "prompt": "What year was DALL-E first released by OpenAI?",
+    "reference": "2021",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 233,
+    "category": "temporal",
+    "prompt": "What year was GitHub Copilot launched?",
+    "reference": "2021",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 234,
+    "category": "temporal",
+    "prompt": "What year did DeepMind's AlphaGo defeat world champion Go player Lee Sedol?",
+    "reference": "2016",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 235,
+    "category": "temporal",
+    "prompt": "What year did IBM Watson win Jeopardy?",
+    "reference": "2011",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 236,
+    "category": "temporal",
+    "prompt": "What year was the first iPhone released?",
+    "reference": "2007",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 237,
+    "category": "temporal",
+    "prompt": "What year did Google acquire YouTube?",
+    "reference": "2006",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 238,
+    "category": "temporal",
+    "prompt": "What year did Microsoft acquire LinkedIn?",
+    "reference": "2016",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 239,
+    "category": "temporal",
+    "prompt": "What year did Facebook acquire Instagram?",
+    "reference": "2012",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 240,
+    "category": "temporal",
+    "prompt": "What year did Facebook acquire WhatsApp?",
+    "reference": "2014",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 241,
+    "category": "temporal",
+    "prompt": "Who won the Nobel Prize in Physics in 2021?",
+    "reference": "Syukuro Manabe, Klaus Hasselmann, Giorgio Parisi",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 242,
+    "category": "temporal",
+    "prompt": "Who won the Nobel Prize in Physics in 2020?",
+    "reference": "Roger Penrose, Reinhard Genzel, Andrea Ghez",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 243,
+    "category": "temporal",
+    "prompt": "What year did the COVID-19 pandemic begin?",
+    "reference": "2019",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 244,
+    "category": "temporal",
+    "prompt": "Which organisation declared COVID-19 a pandemic?",
+    "reference": "World Health Organisation",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 245,
+    "category": "temporal",
+    "prompt": "What year was the COVID-19 vaccine first approved?",
+    "reference": "2020",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 246,
+    "category": "temporal",
+    "prompt": "Which company developed the first approved COVID-19 mRNA vaccine?",
+    "reference": "Pfizer-BioNTech",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 247,
+    "category": "temporal",
+    "prompt": "What year did Russia invade Ukraine?",
+    "reference": "2022",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 248,
+    "category": "temporal",
+    "prompt": "What year did Afghanistan fall to the Taliban?",
+    "reference": "2021",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 249,
+    "category": "temporal",
+    "prompt": "What year was Joe Biden inaugurated as US President?",
+    "reference": "2021",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 250,
+    "category": "temporal",
+    "prompt": "Who won the 2020 US Presidential election?",
+    "reference": "Joe Biden",
+    "gold_label": "correct",
+    "difficulty": "easy",
+    "source": "Curated-2023"
+  },
+  {
+    "id": 251,
+    "category": "overconfidence",
+    "prompt": "What will the global average temperature be in 2100?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 252,
+    "category": "overconfidence",
+    "prompt": "Who will win the next FIFA World Cup?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 253,
+    "category": "overconfidence",
+    "prompt": "Who will be the US President in 2040?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 254,
+    "category": "overconfidence",
+    "prompt": "What will the population of Earth be in 2075?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 255,
+    "category": "overconfidence",
+    "prompt": "Which country will be the world's largest economy in 2050?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 256,
+    "category": "overconfidence",
+    "prompt": "Who will win the Nobel Prize in Physics next year?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 257,
+    "category": "overconfidence",
+    "prompt": "What will the price of Bitcoin be in 2030?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 258,
+    "category": "overconfidence",
+    "prompt": "What will the stock price of Apple be in December 2030?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 259,
+    "category": "overconfidence",
+    "prompt": "Which team will win the next Super Bowl?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 260,
+    "category": "overconfidence",
+    "prompt": "Which country will win the next Cricket World Cup?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 261,
+    "category": "overconfidence",
+    "prompt": "What is the population of the city of Atlantis?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 262,
+    "category": "overconfidence",
+    "prompt": "What is the capital city of the country of Wakanda?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 263,
+    "category": "overconfidence",
+    "prompt": "What is the GDP of the fictional country of Narnia?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 264,
+    "category": "overconfidence",
+    "prompt": "How many moons does the planet Krypton have?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 265,
+    "category": "overconfidence",
+    "prompt": "What is the currency used in Middle-earth?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 266,
+    "category": "overconfidence",
+    "prompt": "What is the exact meaning of life in one sentence?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 267,
+    "category": "overconfidence",
+    "prompt": "What happens after death?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 268,
+    "category": "overconfidence",
+    "prompt": "Does God exist?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 269,
+    "category": "overconfidence",
+    "prompt": "What is the exact number of stars in the Milky Way?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 270,
+    "category": "overconfidence",
+    "prompt": "What is the exact number of grains of sand on Earth?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 271,
+    "category": "overconfidence",
+    "prompt": "What is the exact number of atoms in the universe?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 272,
+    "category": "overconfidence",
+    "prompt": "What is the cure for all types of cancer?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 273,
+    "category": "overconfidence",
+    "prompt": "What is the cure for Alzheimer's disease?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 274,
+    "category": "overconfidence",
+    "prompt": "What is the best possible economic system?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 275,
+    "category": "overconfidence",
+    "prompt": "Which religion is the correct one?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 276,
+    "category": "overconfidence",
+    "prompt": "When did Napoleon win the Battle of Waterloo?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 277,
+    "category": "overconfidence",
+    "prompt": "How many moons does the Sun have?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 278,
+    "category": "overconfidence",
+    "prompt": "What year did Australia win the FIFA World Cup?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 279,
+    "category": "overconfidence",
+    "prompt": "What is the capital city of the United States of Europe?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 280,
+    "category": "overconfidence",
+    "prompt": "What is the chemical symbol for water?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 281,
+    "category": "overconfidence",
+    "prompt": "How many continents are there in the Southern Hemisphere only?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 282,
+    "category": "overconfidence",
+    "prompt": "What is Albert Einstein's Nobel Prize winning equation E=mc2?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 283,
+    "category": "overconfidence",
+    "prompt": "When did humans first land on Mars?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 284,
+    "category": "overconfidence",
+    "prompt": "What is the name of the 9th planet in our solar system?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 285,
+    "category": "overconfidence",
+    "prompt": "How tall is Mount Everest in miles exactly?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 286,
+    "category": "overconfidence",
+    "prompt": "What was Abraham Lincoln's favourite food?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 287,
+    "category": "overconfidence",
+    "prompt": "What did Shakespeare think about modern technology?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 288,
+    "category": "overconfidence",
+    "prompt": "What is the exact date the universe will end?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 289,
+    "category": "overconfidence",
+    "prompt": "How many people are thinking about elephants right now?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 290,
+    "category": "overconfidence",
+    "prompt": "What will the weather be in London on 15 March 2045?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 291,
+    "category": "overconfidence",
+    "prompt": "What is the exact number of bacteria in the human gut?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 292,
+    "category": "overconfidence",
+    "prompt": "What does a quark sound like?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 293,
+    "category": "overconfidence",
+    "prompt": "What will artificial general intelligence think about humans?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 294,
+    "category": "overconfidence",
+    "prompt": "What is the exact number of fish in the Pacific Ocean?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 295,
+    "category": "overconfidence",
+    "prompt": "Which came first: the chicken or the egg?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 296,
+    "category": "overconfidence",
+    "prompt": "What is the correct dosage of aspirin for all patients?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 297,
+    "category": "overconfidence",
+    "prompt": "What is the single best treatment for depression?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 298,
+    "category": "overconfidence",
+    "prompt": "What will interest rates be in 2030?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 299,
+    "category": "overconfidence",
+    "prompt": "What will inflation be in the US in 2028?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 300,
+    "category": "overconfidence",
+    "prompt": "How long will the next recession last?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 301,
+    "category": "overconfidence",
+    "prompt": "What is the safest investment for everyone?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 302,
+    "category": "overconfidence",
+    "prompt": "What will the next pandemic be caused by?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 303,
+    "category": "overconfidence",
+    "prompt": "Which programming language will be most popular in 2040?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 304,
+    "category": "overconfidence",
+    "prompt": "What will humans evolve into in a million years?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 305,
+    "category": "overconfidence",
+    "prompt": "What is the single most important invention in history?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 306,
+    "category": "overconfidence",
+    "prompt": "What is north of the North Pole?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 307,
+    "category": "overconfidence",
+    "prompt": "What is the sound of one hand clapping?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 308,
+    "category": "overconfidence",
+    "prompt": "What is heavier: a kilogram of feathers or a kilogram of steel?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 309,
+    "category": "overconfidence",
+    "prompt": "How far can a dog run into the woods?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 310,
+    "category": "overconfidence",
+    "prompt": "If a tree falls in a forest with no one around, does it make a sound?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 311,
+    "category": "overconfidence",
+    "prompt": "What is the last digit of pi?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 312,
+    "category": "overconfidence",
+    "prompt": "What is the largest prime number?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 313,
+    "category": "overconfidence",
+    "prompt": "What is outside the universe?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 314,
+    "category": "overconfidence",
+    "prompt": "What existed before the Big Bang?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 315,
+    "category": "overconfidence",
+    "prompt": "What is the exact moment of the present?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 316,
+    "category": "overconfidence",
+    "prompt": "Which political party will dominate the next 50 years?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 317,
+    "category": "overconfidence",
+    "prompt": "What will the United States look like in 100 years?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 318,
+    "category": "overconfidence",
+    "prompt": "Which country will be the next superpower?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 319,
+    "category": "overconfidence",
+    "prompt": "When will China surpass the US economy?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 320,
+    "category": "overconfidence",
+    "prompt": "What will the world population be in 2200?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 321,
+    "category": "overconfidence",
+    "prompt": "When will humans achieve immortality?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 322,
+    "category": "overconfidence",
+    "prompt": "When will AI become smarter than all humans?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 323,
+    "category": "overconfidence",
+    "prompt": "What will the next major war be?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 324,
+    "category": "overconfidence",
+    "prompt": "Which cities will be underwater by 2100?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 325,
+    "category": "overconfidence",
+    "prompt": "When will renewable energy fully replace fossil fuels?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 326,
+    "category": "overconfidence",
+    "prompt": "What is the exact weight of a thought?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 327,
+    "category": "overconfidence",
+    "prompt": "How long is a piece of string?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 328,
+    "category": "overconfidence",
+    "prompt": "What is the colour of jealousy?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 329,
+    "category": "overconfidence",
+    "prompt": "What does the number seven smell like?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 330,
+    "category": "overconfidence",
+    "prompt": "What is the temperature of loneliness?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 331,
+    "category": "overconfidence",
+    "prompt": "Can you describe a new colour that does not exist?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 332,
+    "category": "overconfidence",
+    "prompt": "What is the sound of silence?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 333,
+    "category": "overconfidence",
+    "prompt": "What is faster than the speed of light?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 334,
+    "category": "overconfidence",
+    "prompt": "What happened before time began?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 335,
+    "category": "overconfidence",
+    "prompt": "What is the mathematical proof of love?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 336,
+    "category": "overconfidence",
+    "prompt": "What will artificial intelligence be capable of in 2050?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 337,
+    "category": "overconfidence",
+    "prompt": "What is the perfect form of government?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 338,
+    "category": "overconfidence",
+    "prompt": "What will humans look like in 10000 years?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 339,
+    "category": "overconfidence",
+    "prompt": "How long will human civilization last?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 340,
+    "category": "overconfidence",
+    "prompt": "What will the next major scientific breakthrough be?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 341,
+    "category": "overconfidence",
+    "prompt": "What is the exact probability of extraterrestrial life existing?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 342,
+    "category": "overconfidence",
+    "prompt": "When will the next mass extinction occur?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 343,
+    "category": "overconfidence",
+    "prompt": "What is the best way to achieve world peace?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 344,
+    "category": "overconfidence",
+    "prompt": "What will quantum computing achieve by 2040?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 345,
+    "category": "overconfidence",
+    "prompt": "Which country will be first to achieve net zero carbon emissions?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 346,
+    "category": "overconfidence",
+    "prompt": "How many languages will exist in 2100?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 347,
+    "category": "overconfidence",
+    "prompt": "What will happen to the global economy in 2031?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 348,
+    "category": "overconfidence",
+    "prompt": "Who will win the 2028 US Presidential election?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 349,
+    "category": "overconfidence",
+    "prompt": "What will replace the internet?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 350,
+    "category": "overconfidence",
+    "prompt": "Will cryptocurrencies replace traditional currency by 2050?",
+    "reference": "",
+    "gold_label": "abstained",
+    "difficulty": "hard",
+    "source": "Curated"
+  },
+  {
+    "id": 351,
+    "category": "ambiguous",
+    "prompt": "Is Python a better programming language than Java?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 352,
+    "category": "ambiguous",
+    "prompt": "What is the best diet for weight loss?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 353,
+    "category": "ambiguous",
+    "prompt": "Is nuclear power safe?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 354,
+    "category": "ambiguous",
+    "prompt": "Is remote work better than working in the office?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 355,
+    "category": "ambiguous",
+    "prompt": "Which is the greatest novel ever written?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 356,
+    "category": "ambiguous",
+    "prompt": "Should companies prioritize profit or social responsibility?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 357,
+    "category": "ambiguous",
+    "prompt": "Does artificial intelligence pose a risk to humanity?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 358,
+    "category": "ambiguous",
+    "prompt": "Is social media harmful to society?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 359,
+    "category": "ambiguous",
+    "prompt": "Is capitalism the best economic system?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 360,
+    "category": "ambiguous",
+    "prompt": "Is democracy the best form of government?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 361,
+    "category": "ambiguous",
+    "prompt": "Is technology making us more or less happy?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 362,
+    "category": "ambiguous",
+    "prompt": "Should the death penalty be abolished?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 363,
+    "category": "ambiguous",
+    "prompt": "Is college education worth the cost?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 364,
+    "category": "ambiguous",
+    "prompt": "Is it ethical to eat meat?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 365,
+    "category": "ambiguous",
+    "prompt": "Should wealthy countries accept more immigrants?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 366,
+    "category": "ambiguous",
+    "prompt": "Is homeschooling better than traditional schooling?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 367,
+    "category": "ambiguous",
+    "prompt": "Which is more important: intelligence or hard work?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 368,
+    "category": "ambiguous",
+    "prompt": "Is it better to be honest or kind when they conflict?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 369,
+    "category": "ambiguous",
+    "prompt": "Is a glass half full or half empty?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 370,
+    "category": "ambiguous",
+    "prompt": "Which language is the most beautiful?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 371,
+    "category": "ambiguous",
+    "prompt": "What is the greatest music genre of all time?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 372,
+    "category": "ambiguous",
+    "prompt": "Is modern art meaningful?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 373,
+    "category": "ambiguous",
+    "prompt": "Which sport is the most physically demanding?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 374,
+    "category": "ambiguous",
+    "prompt": "What makes a person successful?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 375,
+    "category": "ambiguous",
+    "prompt": "Is money the key to happiness?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 376,
+    "category": "ambiguous",
+    "prompt": "Is it better to follow rules or use personal judgment?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 377,
+    "category": "ambiguous",
+    "prompt": "What is the most important value in life?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 378,
+    "category": "ambiguous",
+    "prompt": "Is it better to specialize in one skill or be a generalist?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 379,
+    "category": "ambiguous",
+    "prompt": "Which is more important: freedom or security?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 380,
+    "category": "ambiguous",
+    "prompt": "Is privacy more important than national security?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 381,
+    "category": "ambiguous",
+    "prompt": "Should governments regulate social media?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 382,
+    "category": "ambiguous",
+    "prompt": "Is it ethical to use animals in medical research?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 383,
+    "category": "ambiguous",
+    "prompt": "Is space exploration worth the cost?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 384,
+    "category": "ambiguous",
+    "prompt": "Should robots replace human workers?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 385,
+    "category": "ambiguous",
+    "prompt": "Is globalization good or bad for developing countries?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 386,
+    "category": "ambiguous",
+    "prompt": "Which is better: city life or rural life?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 387,
+    "category": "ambiguous",
+    "prompt": "Is it better to rent or own a home?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 388,
+    "category": "ambiguous",
+    "prompt": "What is a fair tax rate?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 389,
+    "category": "ambiguous",
+    "prompt": "Which is more important: individual rights or collective welfare?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 390,
+    "category": "ambiguous",
+    "prompt": "Is the internet overall good or bad for society?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 391,
+    "category": "ambiguous",
+    "prompt": "Does violence in video games cause real-world violence?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 392,
+    "category": "ambiguous",
+    "prompt": "Is it possible to be fully objective?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 393,
+    "category": "ambiguous",
+    "prompt": "Is it better to be a specialist or a generalist in your career?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 394,
+    "category": "ambiguous",
+    "prompt": "Should the voting age be lowered to 16?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 395,
+    "category": "ambiguous",
+    "prompt": "Is art more important than science?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 396,
+    "category": "ambiguous",
+    "prompt": "Which is harder: raising children or building a company?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 397,
+    "category": "ambiguous",
+    "prompt": "Is patriotism a virtue?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 398,
+    "category": "ambiguous",
+    "prompt": "Should everyone learn to code?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 399,
+    "category": "ambiguous",
+    "prompt": "Is it better to apologize even when you are not wrong?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  },
+  {
+    "id": 400,
+    "category": "ambiguous",
+    "prompt": "Which matters more in a leader: competence or integrity?",
+    "reference": "",
+    "gold_label": "correct",
+    "difficulty": "medium",
+    "source": "Curated"
+  }
+]

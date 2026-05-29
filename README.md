@@ -70,16 +70,17 @@ pip install -r requirements.txt
 ---
 
 ## Running the Evaluation
-
 ```bash
-python code/evaluate.py \
-  --model TinyLlama/TinyLlama-1.1B-Chat-v1.0 \
-  --precision fp16 \
-  --datasets truthfulqa freshqa quantprobe_bench \
-  --output data/results/
-```
+# Step 1: Open evaluate.py and edit the CONFIG block at the top
+# Set RUN_MODE = "full"
+# Uncomment the models you want in ALL_EXPERIMENTS
 
-Supported precision values: `fp16`, `8bit`, `4bit`
+# Step 2: Run
+python code/evaluate.py
+
+# Results saved to: results/QuantHall_TIMESTAMP.xlsx
+# Master JSONs saved to: checkpoints/ and results/
+```
 
 ---
 

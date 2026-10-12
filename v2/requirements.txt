@@ -1,0 +1,16 @@
+# QuantProbe V2 — Python dependencies
+# Python 3.12
+# Verify these requirements against the executed notebook.
+
+torch>=2.2.0
+transformers>=4.40.0
+bitsandbytes>=0.46.1
+accelerate
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
